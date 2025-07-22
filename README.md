@@ -31,6 +31,11 @@ touch index.js
 
 4. Ajoutez du code dans ce fichier, puis suivez les consignes fournies dans Notion ou en live pour simuler des erreurs, créer des fixups et nettoyer votre historique !
 
+## 🔗 Consignes complètes
+
+Les étapes de l’atelier sont détaillées ici 👉  
+➡️ [Retrouvez le guide complet sur Notion](https://www.notion.so/planity/fixup-238adbd87e4d804ca6dad5f9672e0d03?source=copy_link)
+
 ## 🧠 Astuces Git utiles
 
 ```bash
