@@ -1,1 +1,5 @@
-console.log('Hello world <your-name>');
+function hello(name) {
+	console.log('Hello world ${name} !');
+}
+
+hello('<prenom>');
