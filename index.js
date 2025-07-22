@@ -1,5 +1,5 @@
 function hello(name) {
-	console.log('Hello world ${name} !');
+	console.log(`Hello world ${name} !`);
 }
 
 hello('<prenom>');
