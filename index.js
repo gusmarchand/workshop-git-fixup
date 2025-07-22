@@ -1,1 +1,5 @@
-console.log("Hello world Laëti");
+function hello(name) {
+    console.log(`Hello world ${name} !`);
+}
+
+hello("Laeti");
